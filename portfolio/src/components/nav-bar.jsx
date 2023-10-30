@@ -1,6 +1,6 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react'
-import Logo from '../assets/Mesa de trabajo 3.png'
+import Logo from '../assets/hero-logo.png'
 import { ButtonMenu } from './buttons'
 
 const Navbar = () => {
